@@ -81,7 +81,4 @@ counter-dapp/
 - Solana CLI installed
 - Anchor framework installed
 - Node.js and npm installed
-- Phantom wallet installed in browser
-
-git clone <your-repo-url>
-cd counter-dapp
+- Phantom wallet installed in browser   
